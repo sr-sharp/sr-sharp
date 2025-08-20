@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sr-sharp
-- 👀 I’m interested in Business, Crypto, Finance
-- 🌱 I’m currently learning Python and becoming a Full Stack Developer
+steve
